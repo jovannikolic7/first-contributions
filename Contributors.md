@@ -118,6 +118,7 @@
 - [Hayden Gagnon](https://github.com/haydengagnon)
 - [Ashutosh Singh Yadav](https://github.com/ashu9335)
 - [JimsJam](https://github.com/JimsJam)
+- [Emily Hawkins](https://github.com/emilyshawkins)
 - [BattleDevLukman](https://github.com/lukman155)
 - [ShivamSharma](https://github.com/iDK-pseudo)
 - [Debmalya Sadhukhan](https://github.com/deBmalooo)
@@ -250,6 +251,7 @@
 - [Amruth]
 - [Guillermo Alvarez Bacame] (https://github.com/gabacame)
 - [Namatirai Chibvongodze](https://github.com/Namatirai)
+- [Chimnaecherem Mba] (https://github.com/Chimnaecherem)
 - [Jim Franklin](https://github.com/jim-franklin)
 - [Agnik] (https://github.com/agnik06)
 - [Md. Abu Jafor](https://github.com/abujaforhadi)
